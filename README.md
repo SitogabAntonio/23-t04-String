@@ -1,7 +1,7 @@
-# Q01 Bubbled
+# t04 Bubbled
 Quiz pemrograman ini dikerjakan secara **individual** dan tidak **pairing**. Setiap mahasiswa mengerjakan dan men-submit pekerjaannya masing-masing.
 
-## Tugas 1 (q01_01.c, 40 point)
+## Tugas 1 (t04_01.c, 40 point)
 
 Kembangkan sebuah program yang akan menerima sebaris teks dengan panjang 1-100 karakter. Teks terdiri atas karakter-karakter acak antara ```a```-```z``` yang diseparasi dengan koma (```,```). Tugas anda adalah mengelompokkan karakter-karakter tersebut dan menampilkan sebaris luaran dengan karakter-karakter bernilai ASCII lebih rendah mendahului karakter-karakter yang lebih tinggi nilai ASCII-nya. Konsep yang sama terjadi pada gelembung udara (bubble) di mana gelembung yang lebih besar akan mencapai permukaan mendahuli gelembung yang lebih kecil. Perhatikan contoh berikut.
 
@@ -17,7 +17,7 @@ a,a,a,b,b,b,c,c,d,z
 
 ```
 
-## Tugas 2 (q01_02.c, 60 points)
+## Tugas 2 (t04_02.c, 60 points)
 
 Dengan mengaplikasikan konsep yang sama dengan Tugas 1, pada bagian ini anda diminta untuk me-reverse luaran dengan menampilkan karakter-karakter dengan nilai ASCII lebih besar mendahuli karakter-karakter dengan nilai ASCII lebih kecil.
 
@@ -52,8 +52,8 @@ Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
 
 ## Submissions:
 
-1. q01_01.c
-2. q01_02.c
+1. t04_01.c
+2. t04_02.c
 3. changelog.txt
 
 ## How to Submit?
